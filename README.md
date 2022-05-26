@@ -4,7 +4,7 @@ Hi 👋 My name is Artin Rahmati
 Web Developer
 -------------
 
-Programmer & web designer & learning solidity language .
+Programmer & web designer .
 
 * 🌍  I'm based in london
 * ✉️  You can contact me at [realbamaram@gmail.com](mailto:realbamaram@gmail.com)
