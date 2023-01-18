@@ -6,10 +6,10 @@ Web Developer
 
 Programmer & web designer .
 
-* 🌍  I'm based in london
+* 🌍  I'm based in IRAN , Shiraz
 * ✉️  You can contact me at [realbamaram@gmail.com](mailto:realbamaram@gmail.com)
 * 🧠  I'm learning Solidity
-* 🤝  I'm open to collaborating on Web designing & developing
+* 🤝  I'm open to collaborating on Web developing
 
 ### Skills
 
