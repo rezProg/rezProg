@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rezProg/rezProg/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/rezProg/rezProg/output/snake.svg](https://cdn.discordapp.com/attachments/1019319823328616539/1206674736629678171/snake.svg?ex=65dcde6c&is=65ca696c&hm=438e8b3107d6d69589ccf0a3c8925e5d4a364273ce98873a98985f09cfcf1d8c&)https://cdn.discordapp.com/attachments/1019319823328616539/1206674736629678171/snake.svg?ex=65dcde6c&is=65ca696c&hm=438e8b3107d6d69589ccf0a3c8925e5d4a364273ce98873a98985f09cfcf1d8c&" alt="Snake animation" />
 
 ###
